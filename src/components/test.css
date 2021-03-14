@@ -1,0 +1,19 @@
+.textdecor{
+    text-decoration: line-through;
+}
+
+.head{
+    color: red;
+}
+.wid{
+    width: 65%;
+}
+
+.mar{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.widt{
+    width:20%;
+}
